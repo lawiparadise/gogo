@@ -24,7 +24,7 @@ package com.example.gd2.misson16;
 public class ScheduleInputActivity extends Activity {
     public static final String TAG = "ScheduleInputActivity";
 
-    EditText messageInput;
+    EditText messageInput;//
     Button timeButton;
 
     ImageView weather01Button;
